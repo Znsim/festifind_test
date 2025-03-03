@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { useNavigate } from "react-router-dom";
-import "./Login.css";
+import "./LogIn.css";
 import festivalimg from "../../assets/images/불꽃축제.jpg";
 
 import naver from "../../assets/images/네이버.png";
