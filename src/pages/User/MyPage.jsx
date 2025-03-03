@@ -1,7 +1,7 @@
 // src/pages/User/Mypage.jsx
 import React, { useState } from "react";
 import * as jwtDecode from "jwt-decode"; // 전체 모듈로 불러오기
-import "./Mypage.css";
+import "./MyPage.css";
 import MypageSidebar from "../../components/Mypage/MypageSidebar";
 import MypageContent from "../../components/Mypage/MypageContent";
 
